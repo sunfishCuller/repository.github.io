@@ -1,0 +1,31 @@
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.cg {
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+.ta {
+    color: #A1A100;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+.trollian {
+    border-color: grey;
+    border-width: 1px;
+    border-style: dashed;
+    padding: 10px;
+    margin: 20px;
+}
+
+.pesterlog {
+    font-family: 'Courier New', Courier, monospace;
+}
